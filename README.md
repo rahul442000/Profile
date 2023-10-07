@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<br clear="both">
+
+<h2 align="left">Hi 👋! My name is Rahul Soni and I'm a Software Tester and from Himachal Pradesh</h2>
 
 ###
 
@@ -69,5 +71,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/rahul442000/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rahul442000/rahul442000/output/snake.svg" alt="Snake animation" />
 
 ###
